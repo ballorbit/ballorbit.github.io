@@ -3,5 +3,45 @@
         "name": "Ball Orbit",
         "slug": "ball-orbit",
         "image": "/cache/data/image/game/ball-orbit/ball-orbit-game-m186x186.webp"
+    },
+    {
+        "name": "Golf Hit",
+        "slug": "golf-hit",
+        "image": "/cache/data/image/game/golf-hit/golf-hit-m186x186.webp"
+    },
+    {
+        "name": "Bouncemasters",
+        "slug": "bouncemasters",
+        "image": "/cache/data/image/game/bouncemasters/bouncemasters-m186x186.webp"
+    },
+    {
+        "name": "Golf Orbit",
+        "slug": "golf-orbit",
+        "image": "/cache/data/image/game/golf-orbit/golf-orbit-m186x186.webp"
+    },
+    {
+        "name": "Burrito Bison",
+        "slug": "burrito-bison",
+        "image": "/cache/data/image/game/burrito-bison/burrito-bison-m186x186.webp"
+    },
+    {
+        "name": "Curve Rush",
+        "slug": "curve-rush",
+        "image": "/cache/data/image/game/curve-rush/curve-rush-m186x186.webp"
+    },
+    {
+        "name": "Angry Birds",
+        "slug": "angry-birds",
+        "image": "/cache/data/image/game/angry-birds/angry-birds-m186x186.webp"
+    },
+    {
+        "name": "Stickman Hook",
+        "slug": "stickman-hook",
+        "image": "/cache/data/image/game/stickman-hook/stick-hook-m186x186.webp"
+    },
+    {
+        "name": "Orbit Dash",
+        "slug": "orbit-dash",
+        "image": "/cache/data/image/game/orbit-dash/orbit-dash-m186x186.webp"
     }
 ]
